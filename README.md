@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amar Negi</h1>
-<h3 align="center">Student at Graphic Era Hill University & learning Front End Web Development...</h3>
+<h3 align="center">Student at Graphic Era Deemed University & learning Front End Web Development...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishab-rana&label=Profile%20views&color=0e75b6&style=flat" alt="rishab-rana" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishab-rana&label=Profile%20views&color=0e75b6&style=flat" alt="amar-negi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishab-rana" alt="rishab-rana" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Front-End Web Development*
 
-- 📫 How to reach me *Rishabrana228@gmail.com*
+- 📫 How to reach me *amarnegi2000@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
